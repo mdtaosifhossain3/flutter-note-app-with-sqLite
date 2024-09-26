@@ -1,4 +1,4 @@
-# note_app
+# Note App with Sqlite
 
 A new Flutter project.
 
